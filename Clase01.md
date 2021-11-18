@@ -1,5 +1,7 @@
 # Contenido 
 
+Fecha:16/11/2021
+
 ## Unidad 1
 **Introducción a la informática médica**
 
