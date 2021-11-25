@@ -118,4 +118,5 @@ La responsabilidad es para el PACS . Permite recopilar, analizar, archivar e int
 ### RIS VS PACS
 1. Es fácil de confundir, a menudo los proveedores de PACS ofrecen servicios de RIS
 2. Proveedores con soluciones 100% integradas 
+
 ![picture 8](images/a5a0e5058099e1c1efc430f9f96ff63952c65a79cee7192c6031776c6db1700c.png)  
