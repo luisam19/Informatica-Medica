@@ -5,3 +5,4 @@ Lista de clases :
 - [Clase 03: Protocolos de codificación en informática médica ](https://luisam19.github.io/Informatica-Medica/Clase03)
 - [Clase 04: Sistemas de información en salud](https://luisam19.github.io/Informatica-Medica/Clase04)
 - [Clase 05: Telemedicina](https://luisam19.github.io/Informatica-Medica/Clase05)
+- [Clase 06: Telemedicina](https://luisam19.github.io/Informatica-Medica/Clase06)
