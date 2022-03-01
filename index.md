@@ -6,3 +6,6 @@ Lista de clases :
 - [Clase 04: Sistemas de información en salud](https://luisam19.github.io/Informatica-Medica/Clase04)
 - [Clase 05: Telemedicina](https://luisam19.github.io/Informatica-Medica/Clase05)
 - [Clase 06: Telemedicina](https://luisam19.github.io/Informatica-Medica/Clase06)
+- [Clase 07: Estándar DICOM](https://luisam19.github.io/Informatica-Medica/Clase07)
+- [Clase 08: Hadoop](https://luisam19.github.io/Informatica-Medica/Clase08)
+- [Clase 09: Introducción ML](https://luisam19.github.io/Informatica-Medica/Clase09)

@@ -93,3 +93,41 @@ Se pueden estimar los errores
 
 ## 5. Medidas de error
 
+Para poder determinar cuál es el mejor modelo para nuestro problemas necesario contar con una medida que nos indique que tan bueno es un modelo. Necesariamente entonces debemos hablar de medidas de error o de pérdida. 
+
+**Ajustes de parámetros**
+- Regresión: orden del polinomio
+- Regresión logística: orden del polinomio
+- K-vecinos más cercanos: Número de vecino k 
+- Máquina de soporte vectorial
+
+**Sesgo vs varianza**
+
+![Understanding Bias-Variance Tradeoff | by Meet Patel | Medium](https://miro.medium.com/max/544/1*Y-yJiR0FzMgchPA-Fm5c1Q.jpeg)
+
+**Precisión** proximidad entre los valores medidos obtenidos en mediciones repetidas de un mismo objetivo
+
+**Exactitud** Proximidad del acuerdo entre un valor medido y un valor verdadero. 
+
+
+**Errores de regresión**
+1. Error cuadrático medio (MSE)
+![picture 10](images/6d7d3b4eff0816e9730570d262410de6df4bd58e17eb9d95a507f87adaa75ab9.png)  
+
+2. Raiz error cudrático medio
+![picture 6](images/967c066fa8a9561b91736b6116bc33f32545b6bb7f1e26121cda0052d405865d.png)  
+3. Error medio absoluto
+![picture 11](images/228f7b0461940a994fc952dc51cb508ecc676e8c5b82592ff713d21c0990d69a.png)  
+
+4. Error porcentual absoluto medio
+
+**Medidas de error para clasificación**
+1. **función indicador**: En el problema de clasificación el error se da si el sistema predice una clase cuando la clase real de la muestra es otra. 
+2. Matrices de confusión 
+
+<center>
+<img src="images/990327227b94c405b65587e6554f577f8d8a7ea3bc9f38cae1f01278443abf17.png">
+</center>
+
+
+
