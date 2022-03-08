@@ -129,5 +129,9 @@ Para poder determinar cuál es el mejor modelo para nuestro problemas necesario 
 <img src="images/990327227b94c405b65587e6554f577f8d8a7ea3bc9f38cae1f01278443abf17.png">
 </center>
 
+* Sensibilidad
+* Especificidad
+* Eficiencia
+* Precisión
 
 

@@ -9,3 +9,4 @@ Lista de clases :
 - [Clase 07: Estándar DICOM](https://luisam19.github.io/Informatica-Medica/Clase07)
 - [Clase 08: Hadoop](https://luisam19.github.io/Informatica-Medica/Clase08)
 - [Clase 09: Introducción ML](https://luisam19.github.io/Informatica-Medica/Clase09)
+- [Clase 10: Arboles de decisión](https://luisam19.github.io/Informatica-Medica/Clase10)
